@@ -1,10 +1,16 @@
 ### **Maven Toys: Revenue, Cost, and Profit Analysis Dashboard**
 
+---
+
 #### **Executive Summary**
 The Maven Toys project focuses on analyzing revenue, costs, and profits across different products, cities, and stores. Using Power BI, the dashboard visualizes these financial metrics, offering insights into sales performance, operational efficiency, and profitability at a granular level. The goal is to empower decision-makers with data-driven insights to optimize pricing strategies, identify top-performing locations, and manage product profitability more effectively.
 
+---
+
 #### **Business Problem**
 Maven Toys faced challenges in understanding the financial performance of its products across various cities and stores. Without a unified view of revenue, costs, and profits by product, city, and store, the company struggled to make informed decisions regarding product pricing, inventory management, and resource allocation. This led to missed opportunities for optimizing profitability and cost management.
+
+---
 
 #### **Objective**
 The primary objectives of this project were to:
@@ -14,8 +20,12 @@ The primary objectives of this project were to:
 - Analyze revenue trends over time to understand seasonal fluctuations and peak sales periods for different products.
 - Provide actionable insights that can help the management team make informed decisions regarding product launches, promotions, and resource allocation.
 
+---
+
 #### **Tools I Use**
 - **Power BI**: For creating interactive dashboards, visualizations, and reporting based on the revenue, cost, and profit data. Power BI also enabled complex calculations and performance metrics through DAX and data transformation using Power Query.
+
+---
 
 #### **Suggestions**
 - Implement year-end promotions or discounts, particularly for Airport and Commercial locations, to combat seasonal revenue declines.
@@ -26,11 +36,15 @@ The primary objectives of this project were to:
 - Focus on boosting revenues for Airport and Downtown locations in Q4 through seasonal promotions or marketing campaigns.
 - Introduce holiday sales and incentives to attract more customers in October-November.
 
+---
+
 #### **Challenges**
 - Integrating and cleaning large datasets from multiple sources to ensure accurate revenue, cost, and profit analysis.
 - Ensuring that Power BI dashboards remained responsive and efficient while dealing with large volumes of financial data.
 - Managing the complexity of analyzing multi-dimensional data (product, store, city) and ensuring that the dashboard presented clear and actionable insights without overwhelming users.
 - Building the necessary DAX measures and calculations to track revenue, cost, and profit correctly across different variables like product, city, and store.
+
+---
 
 #### **Learnings**
 - Gained expertise in Power BI for building comprehensive dashboards that combine data from different sources and provide actionable insights.
